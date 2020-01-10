@@ -60,7 +60,7 @@
     </ItemGroup>
     <ItemGroup>
       <Content Include="Assets\FinalDraftParser\FinalDraftParser.asmdef" />
-      <Content Include="Assets\package.json" />
+      <Content Include="Assets\FinalDraftParser\package.json" />
       <Content Include="Script_For_Filmatick.fdx" />
       <Content Include="Too_V2.fdx" />
     </ItemGroup>
