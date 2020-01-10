@@ -2,15 +2,11 @@
 	"name": "com.filmatick.finaldraftparser",
 	"displayName": "Final Draft Parser",
 	"description": "Parse Final Draft XML files",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"unity": "2019.2",
 	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://tylerFilmatick@bitbucket.org/tylerFilmatick/finaldraftparser.git"
-	},
 	"author": "Tyler Cook <tcook@filmatick.com>",
 	"dependencies": {
-		
+
 	}
 }
