@@ -2,7 +2,7 @@
     "name": "com.filmatick.finaldraftparser",
     "displayName": "Final Draft Parser",
     "description": "Final Draft Parser",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "unity": "2019.2",
     "dependencies": {}
 }
