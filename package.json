@@ -4,9 +4,5 @@
 	"description": "Parse Final Draft XML files",
 	"version": "1.0.6",
 	"unity": "2019.2",
-	"license": "MIT",
-	"author": "Tyler Cook <tcook@filmatick.com>",
-	"dependencies": {
-
-	}
+	"unityRelease": "0a12"
 }
